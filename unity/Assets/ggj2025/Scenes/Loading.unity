@@ -150,6 +150,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MainSceneInput:
     SceneIndex: 1
+  MyInputActionReference: {fileID: -2099379676528639254, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
 --- !u!4 &1464726177
 Transform:
   m_ObjectHideFlags: 0
