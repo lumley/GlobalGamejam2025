@@ -2,28 +2,25 @@ using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class LoadNextScene : MonoBehaviour
 {
     [SerializeField] private SceneInput MainSceneInput;
-    [SerializeField] private InputActionReference MyInputActionReference;
+    [SerializeField] private Button StartButton;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void OnEnable()
     {
-        MyInputActionReference.action.performed += OnClick;
+        StartButton.onClick.AddListener(OnClick);
     }
 
     void OnDisable()
     {
-        MyInputActionReference.action.performed -= OnClick;
-    }
-    // Update is called once per frame
-    void Update()
-    {
+        StartButton.onClick.RemoveListener(OnClick);
 
-    }
-    
-    void OnClick(InputAction.CallbackContext _)
+    }  
+    void OnClick()
     {
         SceneManager.LoadScene(MainSceneInput.SceneIndex);
     }
