@@ -456,29 +456,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: InitialGraph
       objectReference: {fileID: 0}
-    - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"OptionA","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OptionB","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OptionC","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
-      propertyPath: _data._objectReferences.Array.size
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
-      propertyPath: '_data._objectReferences.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2864822151403614237}
-    - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
-      propertyPath: '_data._objectReferences.Array.data[1]'
-      value: 
-      objectReference: {fileID: 2864822151403614236}
-    - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
-      propertyPath: '_data._objectReferences.Array.data[2]'
-      value: 
-      objectReference: {fileID: 2864822151403614235}
     - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -686,6 +663,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2864822151403614237}
+    - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2864822151403614236}
+    - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2864822151403614235}
     - target: {fileID: 6923154240667848060, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
