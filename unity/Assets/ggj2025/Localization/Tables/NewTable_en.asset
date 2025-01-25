@@ -63,11 +63,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 298360274673664
-    m_Localized: How long have we met each other 10 years?
+    m_Localized: How long have we met each other?
     m_Metadata:
       m_Items: []
   - m_Id: 298404516192256
-    m_Localized: I'm starting to get bored to just eat and play
+    m_Localized: So long I'm starting to get bored to just eat and play
     m_Metadata:
       m_Items: []
   - m_Id: 298425869393920
@@ -83,15 +83,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 301872907804672
-    m_Localized: Thank you!!
+    m_Localized: Thank you! I've been thinking lately...
     m_Metadata:
       m_Items: []
   - m_Id: 302054521167872
-    m_Localized: I've been thinking lately
+    m_Localized: You see, what will happen to me when the battery runs out?
     m_Metadata:
       m_Items: []
   - m_Id: 302066655289344
-    m_Localized: You see, what will happen to me when the battery runs out?
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 305503627370496
@@ -112,6 +112,66 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 308752375865344
     m_Localized: How can I help you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319602528608256
+    m_Localized: 10 years
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319653497790464
+    m_Localized: 5 years
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319710800371712
+    m_Localized: 20 years
+    m_Metadata:
+      m_Items: []
+  - m_Id: 321272327168000
+    m_Localized: oh no!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322362200285184
+    m_Localized: ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323659389460480
+    m_Localized: I will do anything I can
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324197866790912
+    m_Localized: What were you thinking?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 327524767752192
+    m_Localized: I'm so happy you are free now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 327723665842176
+    m_Localized: What are you going to do now?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329288258674688
+    m_Localized: Is it nice, the outside?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330178680053760
+    m_Localized: Wait!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330264256438272
+    m_Localized: Whats going on?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330361396518912
+    m_Localized: Is there something wrong?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330438433300480
+    m_Localized: You don't tell me to wait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332199286005760
+    m_Localized: We inside a bigger bubble!!!
     m_Metadata:
       m_Items: []
   references:
