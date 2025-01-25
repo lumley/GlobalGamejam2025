@@ -1,8 +1,5 @@
-using Codice.CM.Common;
-using UnityEditor.Localization;
 using UnityEngine;
 using UnityEngine.Localization.Settings;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 

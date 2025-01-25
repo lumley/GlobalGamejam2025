@@ -22,6 +22,10 @@ MonoBehaviour:
     m_Localized: START
     m_Metadata:
       m_Items: []
+  - m_Id: 45525761232896
+    m_Localized: Speech Bubble
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

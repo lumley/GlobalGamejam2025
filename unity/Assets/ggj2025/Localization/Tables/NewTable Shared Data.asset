@@ -19,6 +19,10 @@ MonoBehaviour:
     m_Key: START
     m_Metadata:
       m_Items: []
+  - m_Id: 45525761232896
+    m_Key: Speech Bubble
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
