@@ -506,6 +506,10 @@ PrefabInstance:
       propertyPath: m_text
       value: C
       objectReference: {fileID: 0}
+    - target: {fileID: 8240574555363378986, guid: 163ea3a5d95e44db3932c44d39b8605b, type: 3}
+      propertyPath: m_text
+      value: C
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -715,6 +719,10 @@ PrefabInstance:
       value: TamagoButton (1)
       objectReference: {fileID: 0}
     - target: {fileID: 7719354974415995255, guid: 163ea3a5d95e44db3932c44d39b8605b, type: 3}
+      propertyPath: m_text
+      value: B
+      objectReference: {fileID: 0}
+    - target: {fileID: 8240574555363378986, guid: 163ea3a5d95e44db3932c44d39b8605b, type: 3}
       propertyPath: m_text
       value: B
       objectReference: {fileID: 0}
