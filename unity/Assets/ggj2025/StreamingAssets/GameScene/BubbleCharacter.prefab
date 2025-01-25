@@ -220,7 +220,7 @@ GameObject:
   - component: {fileID: 7570119794928665072}
   - component: {fileID: 3875781315166032366}
   m_Layer: 0
-  m_Name: TImelinePet
+  m_Name: TImelineHappyIdle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -495,7 +495,7 @@ GameObject:
   - component: {fileID: 3724994812739939938}
   - component: {fileID: 5280070558180178539}
   m_Layer: 0
-  m_Name: TImelineHappy
+  m_Name: TImelineHeart_Pet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
