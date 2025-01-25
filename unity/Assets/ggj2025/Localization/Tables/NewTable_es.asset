@@ -26,6 +26,18 @@ MonoBehaviour:
     m_Localized: Bocadillo
     m_Metadata:
       m_Items: []
+  - m_Id: 244671480586240
+    m_Localized: Dar comida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245623956692992
+    m_Localized: Limpiar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 245724536102912
+    m_Localized: Jugar
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
