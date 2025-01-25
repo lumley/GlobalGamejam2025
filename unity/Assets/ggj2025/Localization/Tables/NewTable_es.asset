@@ -50,6 +50,18 @@ MonoBehaviour:
     m_Localized: "\xA1Que divertido!"
     m_Metadata:
       m_Items: []
+  - m_Id: 295675597152256
+    m_Localized: "\xA1No quiero!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 295908896923648
+    m_Localized: Ahora estoy super limp@
+    m_Metadata:
+      m_Items: []
+  - m_Id: 296852942479360
+    m_Localized: Fin
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
