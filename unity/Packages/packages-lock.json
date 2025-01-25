@@ -349,6 +349,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "lumley.unitygamejamutilities-src": {
+      "version": "https://github.com/lumley/unity-gamejam-utilities.git?path=LumleyJamUtilities#0.1.4",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "966fb9a1c8307aba6ea3c29f719b838ed6105188"
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
