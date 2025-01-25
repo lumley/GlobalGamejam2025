@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      modelo_con_cola_bolsa_0: 382599250624246336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
