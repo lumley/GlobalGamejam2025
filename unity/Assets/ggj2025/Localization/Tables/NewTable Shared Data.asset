@@ -59,6 +59,58 @@ MonoBehaviour:
     m_Key: GameOver
     m_Metadata:
       m_Items: []
+  - m_Id: 298360274673664
+    m_Key: SelfConciousStep01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298404516192256
+    m_Key: SelfConciousStep02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298425869393920
+    m_Key: SelfConciousStep03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298441992298496
+    m_Key: SelfConciousStep04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301063239360512
+    m_Key: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301872907804672
+    m_Key: DyingStep01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302054521167872
+    m_Key: DyingStep02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302066655289344
+    m_Key: DyingStep03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305503627370496
+    m_Key: YouWilldie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305613845291008
+    m_Key: NothingHappens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305715406168064
+    m_Key: IWillNotLetHappen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306665881591808
+    m_Key: PleaseHelpMeEscape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308752375865344
+    m_Key: HowCanIHelp
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

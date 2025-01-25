@@ -62,6 +62,58 @@ MonoBehaviour:
     m_Localized: Game Over
     m_Metadata:
       m_Items: []
+  - m_Id: 298360274673664
+    m_Localized: How long have we met each other 10 years?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298404516192256
+    m_Localized: I'm starting to get bored to just eat and play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298425869393920
+    m_Localized: How about trying something new?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298441992298496
+    m_Localized: Would you kindly try?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301063239360512
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301872907804672
+    m_Localized: Thank you!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302054521167872
+    m_Localized: I've been thinking lately
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302066655289344
+    m_Localized: You see, what will happen to me when the battery runs out?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305503627370496
+    m_Localized: You will.... die?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305613845291008
+    m_Localized: I heard nothing will happen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 305715406168064
+    m_Localized: I will not let that to happen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306665881591808
+    m_Localized: Please help me to escape this `bubble`
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308752375865344
+    m_Localized: How can I help you?
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
