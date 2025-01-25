@@ -42,6 +42,14 @@ MonoBehaviour:
     m_Localized: Delicioso!
     m_Metadata:
       m_Items: []
+  - m_Id: 273579370340352
+    m_Localized: Si ya estoy limpi@
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273777521844224
+    m_Localized: "\xA1Que divertido!"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

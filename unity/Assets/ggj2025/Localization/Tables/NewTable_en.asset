@@ -42,6 +42,14 @@ MonoBehaviour:
     m_Localized: Yummi!
     m_Metadata:
       m_Items: []
+  - m_Id: 273579370340352
+    m_Localized: I'm already clean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273777521844224
+    m_Localized: So much fun!
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
