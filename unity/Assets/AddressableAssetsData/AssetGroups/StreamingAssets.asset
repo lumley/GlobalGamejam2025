@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: StreamingAssets
+  m_EditorClassIdentifier: 
+  m_GroupName: StreamingAssets
+  m_GUID: 223fb313132a29d499949bd4b6acdb79
+  m_SerializeEntries:
+  - m_GUID: b067cdc4dd3912f4b9ae37bd9e69ff18
+    m_Address: Assets/ggj2025/StreamingAssets
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d77900579c87046d099a6b4333487bce, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 62ac28df2f3b5fe46b3e877d3287a9aa, type: 2}
+    - {fileID: 11400000, guid: a7607bc2114d16243915550861473e01, type: 2}
