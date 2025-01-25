@@ -12,10 +12,15 @@ public class ShowBubble : MonoBehaviour
     {
         SpawnButton.onClick.AddListener(GetSpawnBubblePrefab);
     }
+    
+    private void OnDestroy()
+    {
+        SpawnButton.onClick.RemoveListener(GetSpawnBubblePrefab);
+    }
 
     private void GetSpawnBubblePrefab()
     {
         var instance = Instantiate(BubblePrefab);
-        instance.setText(text);
+        instance.SetText(text);
     }
  }

@@ -1,6 +1,5 @@
 using System;
 using UnityEngine;
-using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
@@ -25,6 +24,7 @@ public class LoadNextScene : MonoBehaviour
         SceneManager.LoadScene(MainSceneInput.SceneIndex);
     }
 }
+
 [Serializable]
 public class SceneInput 
  {
