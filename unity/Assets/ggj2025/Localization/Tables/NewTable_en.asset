@@ -38,6 +38,10 @@ MonoBehaviour:
     m_Localized: Play
     m_Metadata:
       m_Items: []
+  - m_Id: 272102568484864
+    m_Localized: Yummi!
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -1,8 +1,10 @@
+using JetBrains.Annotations;
 using UnityEngine;
 using UnityEngine.Localization.Components;
 using UnityEngine.UI;
 
 public class SetTamagoAction : MonoBehaviour {
+    [UsedImplicitly] // Visual Scripting
     public static void SetLocalizationToButtons(
         Button buttonA,
         Button buttonB,
