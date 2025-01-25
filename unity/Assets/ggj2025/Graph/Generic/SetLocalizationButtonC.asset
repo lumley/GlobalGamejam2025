@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: SetLocalizationButtonC
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[{"key":"Start","label":null,"summary":null,"hideLabel":false}],"controlOutputDefinitions":[{"key":"Output","label":null,"summary":null,"hideLabel":false}],"valueInputDefinitions":[{"hasDefaultValue":true,"defaultValue":null,"_type":"ScriptableLocalizedString","key":"LocalizedString","label":null,"summary":null,"hideLabel":false}],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":89.34,"y":-244.0},"zoom":1.0,"elements":[{"specifyFallback":false,"kind":"Scene","defaultValues":{"name":{"$content":"OptionC","$type":"System.String"}},"position":{"x":-553.0,"y":-375.0},"guid":"dd0f0486-95fd-44f8-9471-9b6fd6b6bb4a","$version":"A","$type":"Unity.VisualScripting.GetVariable","$id":"12"},{"defaultValues":{},"position":{"x":-552.0,"y":-499.0},"guid":"d8cfda0f-bc0d-414c-b518-86a1d4cce04b","$version":"A","$type":"Unity.VisualScripting.GraphInput","$id":"14"},{"defaultValues":{},"position":{"x":10.0,"y":-522.0},"guid":"951098bd-2e34-4a66-b432-9b202ddf62b6","$version":"A","$type":"Unity.VisualScripting.GraphOutput","$id":"16"},{"chainable":false,"parameterNames":["button","localizedString"],"member":{"name":"SetLocalizationToButton","parameterTypes":["UnityEngine.UI.Button","ScriptableLocalizedString"],"targetType":"SetTamagoAction","targetTypeName":"SetTamagoAction","$version":"A"},"defaultValues":{"%button":null,"%localizedString":null},"position":{"x":-337.0,"y":-497.0},"guid":"2998f675-6dde-419b-adbe-12970c1f60bd","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"18"},{"sourceUnit":{"$ref":"18"},"sourceKey":"exit","destinationUnit":{"$ref":"16"},"destinationKey":"Output","guid":"c9ca119e-0bc6-44f7-8c41-ede489e333d8","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"Start","destinationUnit":{"$ref":"18"},"destinationKey":"enter","guid":"dc99eb20-9921-4279-9343-821b78d27026","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"12"},"sourceKey":"value","destinationUnit":{"$ref":"18"},"destinationKey":"%button","guid":"4f9fbe01-38ae-4fd6-a702-952fa355ebc9","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"LocalizedString","destinationUnit":{"$ref":"18"},"destinationKey":"%localizedString","guid":"c903dfbc-0bd0-4dbf-b670-28d4da707079","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []

@@ -12,9 +12,17 @@ public class SetTamagoAction : MonoBehaviour {
         ScriptableLocalizedString localizedStringA,
         ScriptableLocalizedString localizedStringB,
         ScriptableLocalizedString localizedStringC) {
-        SetLocalization(buttonA.GetComponentInChildren<LocalizeStringEvent>(), localizedStringA);
-        SetLocalization(buttonB.GetComponentInChildren<LocalizeStringEvent>(), localizedStringB);
-        SetLocalization(buttonC.GetComponentInChildren<LocalizeStringEvent>(), localizedStringC);
+        SetLocalizationToButton(buttonA, localizedStringA);
+        SetLocalizationToButton(buttonB, localizedStringB);
+        SetLocalizationToButton(buttonC, localizedStringC);
+    }
+    
+    [UsedImplicitly] // Visual Scripting
+    public static void SetLocalizationToButton(
+        Button button,
+        ScriptableLocalizedString localizedString) {
+        var localizeStringEvent = button.GetComponentInChildren<LocalizeStringEvent>();
+        localizeStringEvent.StringReference = localizedString.LocalizedString;
     }
     
     public static void SetLocalization(
