@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6d513ceae07e84628a6891d64ec4f9e5
+guid: c886bd5b108f9436a997b61032043be6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1955448553306655712
-    second: Background_0
+      213: 382599250624246336
+    second: modelo_con_cola_bolsa_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background_0
+      name: modelo_con_cola_bolsa_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 634
-        height: 452
+        x: 10
+        y: 8
+        width: 1002
+        height: 1178
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 024fa93b6e9dcd4e0800000000000000
-      internalID: -1955448553306655712
+      spriteID: 042f9c8cdf34f4500800000000000000
+      internalID: 382599250624246336
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Background_0: -1955448553306655712
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
