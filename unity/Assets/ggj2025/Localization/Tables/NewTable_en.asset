@@ -321,6 +321,37 @@ MonoBehaviour:
     m_Localized: It is working!
     m_Metadata:
       m_Items: []
+  - m_Id: 735614646345728
+    m_Localized: <i>I always dream of apples...</i>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740868758691840
+    m_Localized: '<i>One little sheep, two little sheep, three...</i>
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740907677638656
+    m_Localized: '<i>A door in a bubble?</i>
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741587406544896
+    m_Localized: '<i>A door... behind the bubble.</i>
+
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741557278859264
+    m_Localized: '<i>I have to find that door...</i>
+
+'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

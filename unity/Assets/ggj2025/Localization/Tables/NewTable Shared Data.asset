@@ -291,6 +291,40 @@ MonoBehaviour:
     m_Key: JumpEnd01
     m_Metadata:
       m_Items: []
+  - m_Id: 735614646345728
+    m_Key: Rest01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735879793467392
+    m_Key: FixBateria_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 736249529753600
+    m_Key: FixBateria_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737218976014336
+    m_Key: Door_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740868758691840
+    m_Key: Rest_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740907677638656
+    m_Key: Rest_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741557278859264
+    m_Key: Rest_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741587406544896
+    m_Key: 'Rest_05
+
+'
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

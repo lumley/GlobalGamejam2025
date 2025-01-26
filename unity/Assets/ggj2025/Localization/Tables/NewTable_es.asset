@@ -320,6 +320,47 @@ MonoBehaviour:
     m_Localized: "\xA1Est\xE1 funcionando!"
     m_Metadata:
       m_Items: []
+  - m_Id: 735614646345728
+    m_Localized: "<i>Siempre sue\xF1o con manzanas...</i>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 735879793467392
+    m_Localized: "La bateria deberia de estar detr\xE1s.\n\xBFDe veras puedes arreglarla?\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 736249529753600
+    m_Localized: 'Mejor no toques la bateria... Debe de haber otra forma
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737218976014336
+    m_Localized: "Iincreible! \xA1Abriste una puerta!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740868758691840
+    m_Localized: '<i>Una ovejita, dos ovejitas, tres...</i>
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740907677638656
+    m_Localized: "<i>\xBFUna puerta en una burbuja?</i>\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741557278859264
+    m_Localized: '<i>Tengo que encontrar esa puerta...</i>
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741587406544896
+    m_Localized: '<i>Una puerta... tras la burbuja.</i>
+
+
+'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
