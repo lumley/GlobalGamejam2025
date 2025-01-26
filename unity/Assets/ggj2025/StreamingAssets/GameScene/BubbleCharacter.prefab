@@ -39,6 +39,7 @@ Transform:
   - {fileID: 5366386307062527162}
   - {fileID: 8139067115423089190}
   - {fileID: 6967330203460053359}
+  - {fileID: 7471689440177720754}
   - {fileID: 9209395497033170656}
   - {fileID: 7622273787575085042}
   m_Father: {fileID: 1046587210541031562}
@@ -318,6 +319,7 @@ MonoBehaviour:
   - {fileID: 1055321491859498691}
   - {fileID: 3640821418001320447}
   - {fileID: 3812455691046389098}
+  - {fileID: 4857615813453146697}
   - {fileID: 4768171201419496924}
   - {fileID: 8737892038692723236}
 --- !u!1 &1796040041269468573
@@ -976,6 +978,73 @@ PlayableDirector:
     value: {fileID: 2910868961928835762}
   - key: {fileID: -6993845888079792412, guid: 9f16ec7b82a054094b8c754c84d42452, type: 2}
     value: {fileID: 5218896396208819955}
+  m_ExposedReferences:
+    m_References: []
+--- !u!1 &6274566016149321306
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7471689440177720754}
+  - component: {fileID: 4857615813453146697}
+  m_Layer: 0
+  m_Name: TImelineJump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7471689440177720754
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6274566016149321306}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 774070233578860400}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!320 &4857615813453146697
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6274566016149321306}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 8ec3376e728964f5aba78ce874d1ca5e, type: 2}
+  m_InitialState: 0
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: -1847852344307027190, guid: c00ff382a8cb84eb2b6193d6e23ee2bf, type: 2}
+    value: {fileID: 2910868961928835762}
+  - key: {fileID: 0}
+    value: {fileID: 2910868961928835762}
+  - key: {fileID: -1847852344307027190, guid: ffe06e76fd9f24476ab6f4089691b3b2, type: 2}
+    value: {fileID: 2910868961928835762}
+  - key: {fileID: -1847852344307027190, guid: 04b5e74313e6747f2862d89cbbfdfa32, type: 2}
+    value: {fileID: 2910868961928835762}
+  - key: {fileID: -2397624392349272001, guid: 04b5e74313e6747f2862d89cbbfdfa32, type: 2}
+    value: {fileID: 4138378920839651860}
+  - key: {fileID: -319065328612603533, guid: 04b5e74313e6747f2862d89cbbfdfa32, type: 2}
+    value: {fileID: 5218896396208819955}
+  - key: {fileID: -2397624392349272001, guid: 8ec3376e728964f5aba78ce874d1ca5e, type: 2}
+    value: {fileID: 4138378920839651860}
+  - key: {fileID: -319065328612603533, guid: 8ec3376e728964f5aba78ce874d1ca5e, type: 2}
+    value: {fileID: 8123684407977768314}
+  - key: {fileID: -1847852344307027190, guid: 8ec3376e728964f5aba78ce874d1ca5e, type: 2}
+    value: {fileID: 2910868961928835762}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &6411248579051207379
