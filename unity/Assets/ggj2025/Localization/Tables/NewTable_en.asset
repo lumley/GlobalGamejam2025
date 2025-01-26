@@ -63,11 +63,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 298360274673664
-    m_Localized: How long have we met each other?
+    m_Localized: Arent you tired of doing always the same?
     m_Metadata:
       m_Items: []
   - m_Id: 298404516192256
-    m_Localized: So long I'm starting to get bored to just eat and play
+    m_Localized: 'Not, really! Listen!
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 298425869393920
@@ -115,11 +117,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 319602528608256
-    m_Localized: 10 years
+    m_Localized: "\u2013"
     m_Metadata:
       m_Items: []
   - m_Id: 319653497790464
-    m_Localized: 5 years
+    m_Localized: Are you... talking to me?
     m_Metadata:
       m_Items: []
   - m_Id: 319710800371712
@@ -172,6 +174,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 332199286005760
     m_Localized: We inside a bigger bubble!!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442584269840384
+    m_Localized: Who else?
     m_Metadata:
       m_Items: []
   references:

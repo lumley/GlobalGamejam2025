@@ -63,11 +63,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 298360274673664
-    m_Localized: "\xBFHace cu\xE1nto que nos conocemos?"
+    m_Localized: "\xBFNo te cansas de siempre lo mismo?"
     m_Metadata:
       m_Items: []
   - m_Id: 298404516192256
-    m_Localized: "Hace tanto que ya estoy aburrido de s\xF3lo jugar y comer"
+    m_Localized: 'No, en serio, escuchame. '
     m_Metadata:
       m_Items: []
   - m_Id: 298425869393920
@@ -115,11 +115,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 319602528608256
-    m_Localized: "10 a\xF1os"
+    m_Localized: "\u2013"
     m_Metadata:
       m_Items: []
   - m_Id: 319653497790464
-    m_Localized: "5 a\xF1os"
+    m_Localized: "\xBFMe est\xE1s hablando?"
     m_Metadata:
       m_Items: []
   - m_Id: 319710800371712
@@ -172,6 +172,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 332199286005760
     m_Localized: "Estamos dentro de una burbuja aun m\xE1s grande!!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 442584269840384
+    m_Localized: "\xBFCon qui\xE9n si no?"
     m_Metadata:
       m_Items: []
   references:
