@@ -201,8 +201,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 465534079459328
-    m_Localized: "Oh no... \xA1L-la bater\xEDa se est\xE1 acabando! \nCada vez que
-      <b>presionas un bot\xF3n</b>, se gasta m\xE1s r\xE1pido."
+    m_Localized: "Oh no... \xA1La bater\xEDa se agota al <b>presionar los botones</b>!"
     m_Metadata:
       m_Items: []
   - m_Id: 466773479514112

@@ -202,12 +202,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 465534079459328
-    m_Localized: 'No! The battery''s dying!
-
-      What will happen when it runs
-      out?
-
-      You have to help me get out of here, NOW!'
+    m_Localized: Oh no... The battery drains when you <b>press the buttons</b>!
     m_Metadata:
       m_Items: []
   - m_Id: 466773479514112
