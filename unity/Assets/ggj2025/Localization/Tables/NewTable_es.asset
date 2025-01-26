@@ -63,19 +63,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 298360274673664
-    m_Localized: "\xBFNo te cansas de siempre lo mismo?"
+    m_Localized: '*Suspiro* '
     m_Metadata:
       m_Items: []
   - m_Id: 298404516192256
-    m_Localized: 'No, en serio, escuchame. '
+    m_Localized: "\u2014\xBFNo te cansas de hacer siempre lo mismo?"
     m_Metadata:
       m_Items: []
   - m_Id: 298425869393920
-    m_Localized: "\xBFQu\xE9 tal si probamos algo nuevo?"
+    m_Localized: "\xA1\xBFEstas hablando?!"
     m_Metadata:
       m_Items: []
   - m_Id: 298441992298496
-    m_Localized: "\xBFTe gustar\xEDa probar?"
+    m_Localized: "\u2014\xBFQu\xE9? \xA1No! Solo\u2026 olv\xEDdalo."
     m_Metadata:
       m_Items: []
   - m_Id: 301063239360512
@@ -175,7 +175,62 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 442584269840384
-    m_Localized: "\xBFCon qui\xE9n si no?"
+    m_Localized: No se supone que deba hablar contigo...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448854653657088
+    m_Localized: Mira...olvidalo...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450083769278464
+    m_Localized: Hablar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452875745484800
+    m_Localized: "Aunque, la verdad, me alegra cuando est\xE1s aqu\xED. \nEl resto
+      del tiempo es tan solitario.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 453132818571264
+    m_Localized: "Siempre quise decirte que adoro esas manzanas... \naunque no me
+      sientan bien.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 454648690368512
+    m_Localized: "Me pregunto c\xF3mo ser\xE1 todo fuera de esta burbuja."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 465534079459328
+    m_Localized: "\xA1No! \xA1La bater\xEDa se est\xE1 acabando!\n\xBFQu\xE9 pasar\xE1
+      cuando se apague?\n\xA1Tienes que ayudarme a salir de aqu\xED, R\xC1PIDO!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 466773479514112
+    m_Localized: '!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 467241043746816
+    m_Localized: "\xA1Sal de ah\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 467345255424000
+    m_Localized: "\xA1S\xED! \xBFpero c\xF3mo?! \xA1No hay salidas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468208485130240
+    m_Localized: Salta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468251577409536
+    m_Localized: Salta!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468337992654848
+    m_Localized: "\xA1Otra vez!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 474539866710016
+    m_Localized: "\u2013"
     m_Metadata:
       m_Items: []
   references:

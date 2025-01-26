@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cbe1f962a1234902b27a74c5e0a98599, type: 3}
-  m_Name: '-'
+  m_Name: Chatting04
   m_EditorClassIdentifier: 
   LocalizedString:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:9eb1f76f3d6384bc3a46926a89700175
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 454648690368512
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0

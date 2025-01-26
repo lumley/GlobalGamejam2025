@@ -63,21 +63,20 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 298360274673664
-    m_Localized: Arent you tired of doing always the same?
+    m_Localized: ' *sigh*'
     m_Metadata:
       m_Items: []
   - m_Id: 298404516192256
-    m_Localized: 'Not, really! Listen!
-
-'
+    m_Localized: "\u2014Don\u2019t you ever get tired of doing the same thing over
+      and over?\n"
     m_Metadata:
       m_Items: []
   - m_Id: 298425869393920
-    m_Localized: How about trying something new?
+    m_Localized: Are you talking?!
     m_Metadata:
       m_Items: []
   - m_Id: 298441992298496
-    m_Localized: Would you kindly try?
+    m_Localized: "\u2014What? No! Just\u2026 forget it."
     m_Metadata:
       m_Items: []
   - m_Id: 301063239360512
@@ -177,7 +176,66 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 442584269840384
-    m_Localized: Who else?
+    m_Localized: "I\u2019m not supposed to talk to you.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448854653657088
+    m_Localized: Forget that I talked. Just continue.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 450083769278464
+    m_Localized: Talk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452875745484800
+    m_Localized: "But honestly, I\u2019m glad when you\u2019re around. It\u2019s
+      so lonely the rest of the time."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 453132818571264
+    m_Localized: "I\u2019ve always wanted to tell you I love apples... \neven though
+      they really mess up my stomach.\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 454648690368512
+    m_Localized: I wonder what things are like outside this bubble.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 465534079459328
+    m_Localized: 'No! The battery''s dying!
+
+      What will happen when it runs
+      out?
+
+      You have to help me get out of here, NOW!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 466773479514112
+    m_Localized: '!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 467241043746816
+    m_Localized: Go Out!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 467345255424000
+    m_Localized: "Yes! But how?! There\u2019s no way out!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468208485130240
+    m_Localized: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468251577409536
+    m_Localized: Jump!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 468337992654848
+    m_Localized: More!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 474539866710016
+    m_Localized: "\u2013"
     m_Metadata:
       m_Items: []
   references:
