@@ -234,7 +234,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 468198469132288
-    m_Localized: Creditos
+    m_Localized: "Cr\xE9ditos"
     m_Metadata:
       m_Items: []
   - m_Id: 607639187742720
@@ -281,6 +281,38 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 611246196908032
     m_Localized: Descansa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 614347704360960
+    m_Localized: '<size=3em>Equipo</size>
+
+
+
+      <color=blue><u><link="https://piffia.wixsite.com/website">Oriana
+      Laplana Curtido</link></u></color>
+
+
+      Luis Andres Rojas Jimenez
+
+
+      <color=blue><u><link="https://github.com/lumley">Sergio
+      Rodriguez Lumley</link></u></color>
+
+
+      <color=blue><u><link="https://github.com/Cicoc">Ciro
+      Rodriguez Llorens</link></u></color>
+
+
+      <color=blue><u><link="https://github.com/jilker">Victor
+      Quesada</link></u></color>
+
+
+      <color=blue><u><link="https://github.com/LyraDOc/">Lyra</link></u></color>
+
+
+      Leo
+
+'
     m_Metadata:
       m_Items: []
   references:

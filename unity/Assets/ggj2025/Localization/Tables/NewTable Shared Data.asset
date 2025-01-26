@@ -220,7 +220,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 468198469132288
-    m_Key: Credits
+    m_Key: CreditsButton
     m_Metadata:
       m_Items: []
   - m_Id: 468208485130240
@@ -281,6 +281,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 611339268513792
     m_Key: BatteryAnswer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 614347704360960
+    m_Key: Credits
     m_Metadata:
       m_Items: []
   m_Metadata:

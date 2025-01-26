@@ -289,6 +289,38 @@ MonoBehaviour:
     m_Localized: ' I need to escape! But how?!'
     m_Metadata:
       m_Items: []
+  - m_Id: 614347704360960
+    m_Localized: '<size=3em>Team</size>
+
+
+
+      <color=blue><u><link="https://piffia.wixsite.com/website">Oriana
+      Laplana Curtido</link></u></color>
+
+
+      Luis Andres Rojas Jimenez
+
+
+      <color=blue><u><link="https://github.com/lumley">Sergio
+      Rodriguez Lumley</link></u></color>
+
+
+      <color=blue><u><link="https://github.com/Cicoc">Ciro
+      Rodriguez Llorens</link></u></color>
+
+
+      <color=blue><u><link="https://github.com/jilker">Victor
+      Quesada</link></u></color>
+
+
+      <color=blue><u><link="https://github.com/LyraDOc/">Lyra</link></u></color>
+
+
+      Leo
+
+'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

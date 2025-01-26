@@ -462,8 +462,9 @@ GameObject:
   m_Component:
   - component: {fileID: 496744769}
   - component: {fileID: 496744771}
-  - component: {fileID: 496744770}
   - component: {fileID: 496744772}
+  - component: {fileID: 496744770}
+  - component: {fileID: 496744773}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -510,35 +511,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '<size=3em>Team</size>
-
-
-
-    <color=blue><u><link="https://piffia.wixsite.com/website">Oriana
-    Laplana Curtido</link></u></color>
-
-
-    Luis Andres Rojas Jimenez
-
-
-    <color=blue><u><link="https://github.com/lumley">Sergio
-    Rodriguez Lumley</link></u></color>
-
-
-    <color=blue><u><link="https://github.com/Cicoc">Ciro
-    Rodriguez Llorens</link></u></color>
-
-
-    <color=blue><u><link="https://github.com/jilker">Victor
-    Quesada</link></u></color>
-
-
-    <color=blue><u><link="https://github.com/LyraDOc/">Lyra</link></u></color>
-
-
-    Leo
-
-'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 72c7c2b2548be49959a2b65a8e727cfc, type: 2}
   m_sharedMaterial: {fileID: -7219016704146257124, guid: 72c7c2b2548be49959a2b65a8e727cfc, type: 2}
@@ -629,6 +602,46 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67df01731ca0b4bc0b9d1721d2e01ba4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &496744773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 496744768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56eb0353ae6e5124bb35b17aff880f16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_StringReference:
+    m_TableReference:
+      m_TableCollectionName: GUID:9eb1f76f3d6384bc3a46926a89700175
+    m_TableEntryReference:
+      m_KeyId: 614347704360960
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  m_FormatArguments: []
+  m_UpdateString:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 496744770}
+        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
+        m_MethodName: SetText
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &501991680
 GameObject:
   m_ObjectHideFlags: 0
@@ -2231,7 +2244,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1963632181
 MonoBehaviour:
   m_ObjectHideFlags: 0
