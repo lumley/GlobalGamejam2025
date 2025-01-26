@@ -1597,23 +1597,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"Food","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Happiness","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"OptionA","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OptionB","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OptionC","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"BatteryLevel","value":{"$content":100,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"TimelinePlayer","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TimelinePlayer,
-        Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"AllbuttonGFX","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"SleepGO","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
-      propertyPath: _data._objectReferences.Array.size
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
       propertyPath: '_data._objectReferences.Array.data[0]'
       value: 
       objectReference: {fileID: 5944309178983793299}
@@ -1637,6 +1620,10 @@ PrefabInstance:
       propertyPath: '_data._objectReferences.Array.data[5]'
       value: 
       objectReference: {fileID: 1452642358}
+    - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[6]'
+      value: 
+      objectReference: {fileID: 3772728181331311907}
     - target: {fileID: 6923154240667848060, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1941,6 +1928,11 @@ PrefabInstance:
 --- !u!224 &3772728181331311906 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5293595097828670987, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
+  m_PrefabInstance: {fileID: 3772728181331311905}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3772728181331311907 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 282985414603722721, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
   m_PrefabInstance: {fileID: 3772728181331311905}
   m_PrefabAsset: {fileID: 0}
 --- !u!224 &3899994644756470124
