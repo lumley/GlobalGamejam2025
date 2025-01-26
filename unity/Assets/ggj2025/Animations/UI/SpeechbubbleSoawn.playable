@@ -349,7 +349,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Panel
+    path: PositionhHolder/Panel
   m_FloatCurves: []
   m_PPtrCurves: []
   m_SampleRate: 60
@@ -360,7 +360,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 1668086795
+      path: 269719047
       attribute: 3
       script: {fileID: 0}
       typeID: 4
@@ -443,7 +443,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: Panel
+    path: PositionhHolder/Panel
     classID: 224
     script: {fileID: 0}
     flags: 0
@@ -500,7 +500,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: Panel
+    path: PositionhHolder/Panel
     classID: 224
     script: {fileID: 0}
     flags: 0
@@ -539,7 +539,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: Panel
+    path: PositionhHolder/Panel
     classID: 224
     script: {fileID: 0}
     flags: 0

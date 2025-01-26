@@ -1072,7 +1072,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 4fe1cec3a24b44b1281f25a558ce9ef7, type: 3}
   m_Resource: {fileID: 8300000, guid: 4fe1cec3a24b44b1281f25a558ce9ef7, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.5
+  m_Volume: 0.105
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1638,7 +1638,7 @@ PrefabInstance:
     - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
       propertyPath: '_data._objectReferences.Array.data[6]'
       value: 
-      objectReference: {fileID: 3772728181331311907}
+      objectReference: {fileID: 0}
     - target: {fileID: 6923154240667848060, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1760,6 +1760,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1677445782723388635}
     - target: {fileID: 2777022196024229325, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.36421895
+      objectReference: {fileID: 0}
+    - target: {fileID: 2777022196024229325, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.4012505
+      objectReference: {fileID: 0}
+    - target: {fileID: 2777022196024229325, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
       propertyPath: m_SizeDelta.x
       value: 350.7473
       objectReference: {fileID: 0}
@@ -1769,11 +1777,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2777022196024229325, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 10
+      value: -47.625
       objectReference: {fileID: 0}
     - target: {fileID: 2777022196024229325, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -74
+      value: -113
       objectReference: {fileID: 0}
     - target: {fileID: 3214019140926183666, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
       propertyPath: m_AnchorMax.x
@@ -1809,7 +1817,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3470585553066132571, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
       propertyPath: Directors.Array.size
-      value: 13
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 3470585553066132571, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
       propertyPath: 'Directors.Array.data[10]'
@@ -1963,11 +1971,6 @@ PrefabInstance:
 --- !u!224 &3772728181331311906 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5293595097828670987, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
-  m_PrefabInstance: {fileID: 3772728181331311905}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &3772728181331311907 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 282985414603722721, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
   m_PrefabInstance: {fileID: 3772728181331311905}
   m_PrefabAsset: {fileID: 0}
 --- !u!95 &3772728181331311910 stripped
@@ -2485,6 +2488,13 @@ PrefabInstance:
     - target: {fileID: 4937912320240314883, guid: ac4744d6a2abb450fb94fe7ebf03208b, type: 3}
       propertyPath: m_Name
       value: GameStates
+      objectReference: {fileID: 0}
+    - target: {fileID: 5316679346019109030, guid: ac4744d6a2abb450fb94fe7ebf03208b, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Step","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"NextState","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Apples","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
