@@ -599,9 +599,7 @@ RectTransform:
   m_Children:
   - {fileID: 2040967636}
   - {fileID: 3772728181331311906}
-  - {fileID: 1527151099041823028}
-  - {fileID: 1464274843535271950}
-  - {fileID: 1745063191543376459}
+  - {fileID: 1271916379}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -986,6 +984,44 @@ Transform:
   - {fileID: 45408100}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1271916378
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1271916379}
+  m_Layer: 5
+  m_Name: ButtonsTexts
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1271916379
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1271916378}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1527151099041823028}
+  - {fileID: 1464274843535271950}
+  - {fileID: 1745063191543376459}
+  m_Father: {fileID: 642219300}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 10.5, y: -584}
+  m_SizeDelta: {x: 951, y: 140}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1588519589
 GameObject:
   m_ObjectHideFlags: 0
@@ -1414,11 +1450,11 @@ RectTransform:
   m_Children:
   - {fileID: 2132001561}
   - {fileID: 506559574837217761}
-  m_Father: {fileID: 642219300}
+  m_Father: {fileID: 1271916379}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 600, y: -1850}
+  m_AnchoredPosition: {x: 480, y: -70}
   m_SizeDelta: {x: 300, y: 140}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &1527151099041823028
@@ -1435,11 +1471,11 @@ RectTransform:
   m_Children:
   - {fileID: 4560646610045178261}
   - {fileID: 2089500167681096249}
-  m_Father: {fileID: 642219300}
+  m_Father: {fileID: 1271916379}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 270, y: -1850}
+  m_AnchoredPosition: {x: 150, y: -70}
   m_SizeDelta: {x: 300, y: 140}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1677445782723388635
@@ -1500,11 +1536,11 @@ RectTransform:
   m_Children:
   - {fileID: 1032589111}
   - {fileID: 6560570701299241002}
-  m_Father: {fileID: 642219300}
+  m_Father: {fileID: 1271916379}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 921, y: -1850}
+  m_AnchoredPosition: {x: 801, y: -70}
   m_SizeDelta: {x: 300, y: 140}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1817212387280073012
@@ -1556,21 +1592,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Scene","collection":{"$content":[{"name":"Food","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Happiness","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"OptionA","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OptionB","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OptionC","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"BatteryLevel","value":{"$content":100,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"TimelinePlayer","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"TimelinePlayer,
-        Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
-      propertyPath: _data._objectReferences.Array.size
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
       propertyPath: '_data._objectReferences.Array.data[0]'
       value: 
       objectReference: {fileID: 5944309178983793299}
@@ -1586,6 +1607,10 @@ PrefabInstance:
       propertyPath: '_data._objectReferences.Array.data[3]'
       value: 
       objectReference: {fileID: 875946825}
+    - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[4]'
+      value: 
+      objectReference: {fileID: 1271916378}
     - target: {fileID: 6923154240667848060, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
