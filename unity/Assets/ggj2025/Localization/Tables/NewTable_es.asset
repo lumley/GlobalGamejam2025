@@ -335,7 +335,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 737218976014336
-    m_Localized: "Iincreible! \xA1Abriste una puerta!"
+    m_Localized: "\xA1Una puerta ha aparecido al fondo! Pero est\xE1 cerrada..."
     m_Metadata:
       m_Items: []
   - m_Id: 740868758691840

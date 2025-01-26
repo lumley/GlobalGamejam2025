@@ -352,6 +352,10 @@ MonoBehaviour:
 '
     m_Metadata:
       m_Items: []
+  - m_Id: 737218976014336
+    m_Localized: A door has appeared at the back of the room! But it's closed...
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
