@@ -11,6 +11,7 @@ public class SpeechBubble : MonoBehaviour {
     
     [UsedImplicitly] // Visual scripting
     public void SetText(ScriptableLocalizedString text) {
+        gameObject.SetActive(true);
         Event.StringReference = text.LocalizedString;
     }
 }
