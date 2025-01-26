@@ -67,15 +67,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 298404516192256
-    m_Localized: "\u2014\xBFNo te cansas de hacer siempre lo mismo?"
+    m_Localized: "\xBFNo te cansas de hacer siempre lo mismo?"
     m_Metadata:
       m_Items: []
   - m_Id: 298425869393920
-    m_Localized: "\xA1\xBFEstas hablando?!"
+    m_Localized: ?!
     m_Metadata:
       m_Items: []
   - m_Id: 298441992298496
-    m_Localized: "\u2014\xBFQu\xE9? \xA1No! Solo\u2026 olv\xEDdalo."
+    m_Localized: "\xBFHablar? \xBFYo? \xA1Qu\xE9 va!\nSolo soy un BubblePet. Plop.\n"
     m_Metadata:
       m_Items: []
   - m_Id: 301063239360512
@@ -201,8 +201,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 465534079459328
-    m_Localized: "\xA1No! \xA1La bater\xEDa se est\xE1 acabando!\n\xBFQu\xE9 pasar\xE1
-      cuando se apague?\n\xA1Tienes que ayudarme a salir de aqu\xED, R\xC1PIDO!"
+    m_Localized: "Oh no... \xA1L-la bater\xEDa se est\xE1 acabando! \nCada vez que
+      <b>presionas un bot\xF3n</b>, se gasta m\xE1s r\xE1pido."
     m_Metadata:
       m_Items: []
   - m_Id: 466773479514112
@@ -210,7 +210,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 467241043746816
-    m_Localized: "\xA1Sal de ah\xED!"
+    m_Localized: Escapa!
     m_Metadata:
       m_Items: []
   - m_Id: 467345255424000
@@ -235,6 +235,52 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 468198469132288
     m_Localized: Creditos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 607639187742720
+    m_Localized: "\xA1No dejes que me apague! \xA1Tengo miedo! \xA1Ay\xFAdame!\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609730576769024
+    m_Localized: Muerte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609924492025856
+    m_Localized: Ayuda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610058927857664
+    m_Localized: Muere!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610170563452928
+    m_Localized: "\nNo! La bater\xEDa se fue... \nYo... solo quiero decir que te
+      quier\u2013"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610508091678720
+    m_Localized: "\xBFQu\xE9? \xA1N-no bromees! \xA1No quiero desaparecer!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610834194620416
+    m_Localized: "\xA1Detente! \xA1Deja de presionar botones!  >_<"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610953140887552
+    m_Localized: "Uff... Me asustaste por un momento.\n\xA1Debo escapar! \xA1Pero
+      c\xF3mo lo hago?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611182175051776
+    m_Localized: "\xA1Debo escapar! \xA1Pero c\xF3mo lo hago?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611339268513792
+    m_Localized: Bateria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611246196908032
+    m_Localized: Descansa
     m_Metadata:
       m_Items: []
   references:

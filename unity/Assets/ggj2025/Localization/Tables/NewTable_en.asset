@@ -67,16 +67,16 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 298404516192256
-    m_Localized: "\u2014Don\u2019t you ever get tired of doing the same thing over
-      and over?\n"
+    m_Localized: "Don\u2019t you ever get tired of doing the same thing over and
+      over?\n"
     m_Metadata:
       m_Items: []
   - m_Id: 298425869393920
-    m_Localized: Are you talking?!
+    m_Localized: ?!
     m_Metadata:
       m_Items: []
   - m_Id: 298441992298496
-    m_Localized: "\u2014What? No! Just\u2026 forget it."
+    m_Localized: "Talking? Me? No way!\nI\u2019m just a BubblePet. Pop."
     m_Metadata:
       m_Items: []
   - m_Id: 301063239360512
@@ -240,6 +240,53 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 468198469132288
     m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 607639187742720
+    m_Localized: "Don\u2019t let me shut down! I\u2019m scared! \nHelp me!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609730576769024
+    m_Localized: Dead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609924492025856
+    m_Localized: Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610058927857664
+    m_Localized: Die!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610508091678720
+    m_Localized: "What?! Stop joking! I don\u2019t wanna disappear!\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611246196908032
+    m_Localized: Sleep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611339268513792
+    m_Localized: Battery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610170563452928
+    m_Localized: "No... Battery\u2019s gone... \nI just wanna say I love y\u2013"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610834194620416
+    m_Localized: ' Stop pressing buttons!! >_<'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610953140887552
+    m_Localized: 'hew... You scared me for a moment.
+
+      I need to escape! But
+      how?!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611182175051776
+    m_Localized: ' I need to escape! But how?!'
     m_Metadata:
       m_Items: []
   references:

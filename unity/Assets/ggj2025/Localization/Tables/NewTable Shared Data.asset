@@ -239,6 +239,50 @@ MonoBehaviour:
     m_Key: None
     m_Metadata:
       m_Items: []
+  - m_Id: 607639187742720
+    m_Key: BateryLow02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609730576769024
+    m_Key: DeadAnswer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 609924492025856
+    m_Key: HelpAnswer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610058927857664
+    m_Key: DieAnswer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610170563452928
+    m_Key: TurnOff_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610508091678720
+    m_Key: Die_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610834194620416
+    m_Key: Die_02A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 610953140887552
+    m_Key: Die_02B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611182175051776
+    m_Key: GoOut_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611246196908032
+    m_Key: RestAnswer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611339268513792
+    m_Key: BatteryAnswer
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
