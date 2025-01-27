@@ -404,6 +404,14 @@ MonoBehaviour:
     m_Localized: The door is blocked from <b>behind</b>.
     m_Metadata:
       m_Items: []
+  - m_Id: 735879793467392
+    m_Localized: 'Each button drains battery.
+
+      D:
+
+'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
