@@ -2999,6 +2999,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TurnButton
       objectReference: {fileID: 0}
+    - target: {fileID: 455553860173754074, guid: c7feff509066a4f49b9f13a30463fcf0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5477096714871784577, guid: c7feff509066a4f49b9f13a30463fcf0, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
