@@ -144,7 +144,7 @@ RectTransform:
   m_GameObject: {fileID: 30216775}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 389875127}
@@ -153,7 +153,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 117.959564}
+  m_AnchoredPosition: {x: 0, y: 53.83}
   m_SizeDelta: {x: 136, y: 222.44171}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!1 &36683373
@@ -353,6 +353,81 @@ Transform:
   - {fileID: 538615735}
   m_Father: {fileID: 1268443119}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &78439047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 78439048}
+  - component: {fileID: 78439049}
+  m_Layer: 5
+  m_Name: TimelineButonsIdle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &78439048
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 78439047}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999813, y: 0.9999813, z: 0.9999813}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1271916379}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.00012207031, y: 0.000011074357}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!320 &78439049
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 78439047}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: dc3cc5caac1734c88979d754f1effaad, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 1
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: -2058404992235260539, guid: fa804ee28c24c45f6b6cd5d1694b2911, type: 2}
+    value: {fileID: 8122535094082403982}
+  - key: {fileID: 3211379778267541867, guid: fa804ee28c24c45f6b6cd5d1694b2911, type: 2}
+    value: {fileID: 30216775}
+  - key: {fileID: 3211379778267541867, guid: 55b338baf39a9493e806f0778ba8090d, type: 2}
+    value: {fileID: 1642861185}
+  - key: {fileID: -2058404992235260539, guid: 55b338baf39a9493e806f0778ba8090d, type: 2}
+    value: {fileID: 6889204953230707265}
+  - key: {fileID: 3002471359653786236, guid: 55b338baf39a9493e806f0778ba8090d, type: 2}
+    value: {fileID: 1650242305}
+  - key: {fileID: -1093236054988906167, guid: 55b338baf39a9493e806f0778ba8090d, type: 2}
+    value: {fileID: 5188714065892642432}
+  - key: {fileID: 7033053207926801943, guid: 55b338baf39a9493e806f0778ba8090d, type: 2}
+    value: {fileID: 30216775}
+  - key: {fileID: 7177259141280705046, guid: 55b338baf39a9493e806f0778ba8090d, type: 2}
+    value: {fileID: 8122535094082403982}
+  - key: {fileID: -2058404992235260539, guid: dc3cc5caac1734c88979d754f1effaad, type: 2}
+    value: {fileID: 6889204953230707265}
+  - key: {fileID: -1093236054988906167, guid: dc3cc5caac1734c88979d754f1effaad, type: 2}
+    value: {fileID: 5188714065892642432}
+  - key: {fileID: 7177259141280705046, guid: dc3cc5caac1734c88979d754f1effaad, type: 2}
+    value: {fileID: 8122535094082403982}
+  m_ExposedReferences:
+    m_References: []
 --- !u!1 &141098500
 GameObject:
   m_ObjectHideFlags: 0
@@ -1133,6 +1208,8 @@ PlayableDirector:
     value: {fileID: 30216775}
   - key: {fileID: 7177259141280705046, guid: 55b338baf39a9493e806f0778ba8090d, type: 2}
     value: {fileID: 8122535094082403982}
+  - key: {fileID: -5136073818639365527, guid: 55b338baf39a9493e806f0778ba8090d, type: 2}
+    value: {fileID: 78439047}
   m_ExposedReferences:
     m_References: []
 --- !u!114 &875946825 stripped
@@ -1761,6 +1838,7 @@ RectTransform:
   - {fileID: 1464274843535271950}
   - {fileID: 1745063191543376459}
   - {fileID: 782801256}
+  - {fileID: 78439048}
   m_Father: {fileID: 3772728181331311906}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -3216,7 +3294,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 70}
+  m_AnchoredPosition: {x: 0, y: 78.999954}
   m_SizeDelta: {x: 300, y: 140}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!224 &1527151099041823028
