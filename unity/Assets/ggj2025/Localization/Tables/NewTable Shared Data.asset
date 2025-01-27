@@ -304,7 +304,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 737218976014336
-    m_Key: Door_01
+    m_Key: Door_00
     m_Metadata:
       m_Items: []
   - m_Id: 740868758691840
@@ -316,13 +316,55 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 741557278859264
-    m_Key: Rest_04
+    m_Key: 'Rest_04
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 741587406544896
     m_Key: 'Rest_05
 
 '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 978462813708288
+    m_Key: Rest_06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980335411060736
+    m_Key: Door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980370773237760
+    m_Key: Door_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980487337140224
+    m_Key: Door_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981521648312320
+    m_Key: Dream_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987433469468672
+    m_Key: Dream_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987452201230336
+    m_Key: Dream_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987543603503104
+    m_Key: Dream_04
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987669055135744
+    m_Key: Dream_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 996797643218944
+    m_Key: Door_03
     m_Metadata:
       m_Items: []
   m_Metadata:

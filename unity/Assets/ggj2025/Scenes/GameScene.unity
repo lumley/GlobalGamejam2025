@@ -673,6 +673,103 @@ PlayableDirector:
   m_CorrespondingSourceObject: {fileID: 7648305194995716251, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
   m_PrefabInstance: {fileID: 3772728181331311905}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &459125481 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7761514754397178258, guid: ac4744d6a2abb450fb94fe7ebf03208b, type: 3}
+  m_PrefabInstance: {fileID: 6729338869989848432}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &503024987
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1400541604}
+    m_Modifications:
+    - target: {fileID: 2306425912991319873, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_Name
+      value: 1.2DreamedDoor
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306425912991319873, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977395269209583067, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[0]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 5a37af60e7c6a49a39d7b842c12b6077, type: 2}
+    - target: {fileID: 7542774751702643575, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"NextState","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"JumpAmount","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"DoorTimes","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"NextStateJumpFinal","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"sleeptimes","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7542774751702643575, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7542774751702643575, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[0]'
+      value: 
+      objectReference: {fileID: 459125481}
+    - target: {fileID: 8395954968238945202, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+--- !u!1 &503024988 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2306425912991319873, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+  m_PrefabInstance: {fileID: 503024987}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &503024989 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8395954968238945202, guid: c017ba7e25ce1473b9b03d764e143107, type: 3}
+  m_PrefabInstance: {fileID: 503024987}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1141,6 +1238,17 @@ PlayableDirector:
     value: {fileID: 1650242305}
   m_ExposedReferences:
     m_References: []
+--- !u!114 &720579560 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5229146123504867816, guid: 398d9595992dd47e8a9ecfbe67cd67a7, type: 3}
+  m_PrefabInstance: {fileID: 705779074198227368}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &782801255
 GameObject:
   m_ObjectHideFlags: 0
@@ -1250,16 +1358,22 @@ PrefabInstance:
       objectReference: {fileID: 11400000, guid: 58d6cd4a5a6ce4616a1f0b4a7ae79e2a, type: 2}
     - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"NextStageFinalDoor","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"CurrentStep_LookingDoor","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 0
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
       propertyPath: '_data._objectReferences.Array.data[0]'
       value: 
-      objectReference: {fileID: 348958199}
+      objectReference: {fileID: 1351837455}
+    - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[1]'
+      value: 
+      objectReference: {fileID: 503024988}
     - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1971,6 +2085,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
   m_PrefabInstance: {fileID: 1351837453}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1351837455 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2306425912991319873, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+  m_PrefabInstance: {fileID: 1351837453}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1392181405
 GameObject:
   m_ObjectHideFlags: 0
@@ -2028,6 +2147,93 @@ PlayableDirector:
     value: {fileID: 1642861185}
   m_ExposedReferences:
     m_References: []
+--- !u!4 &1400541604 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1515401332619095070, guid: ac4744d6a2abb450fb94fe7ebf03208b, type: 3}
+  m_PrefabInstance: {fileID: 6729338869989848432}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1413794234
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1873140604}
+    m_Modifications:
+    - target: {fileID: 2306425912991319873, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_Name
+      value: KukuGochiDoor
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306425912991319873, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3977395269209583067, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[0]'
+      value: 
+      objectReference: {fileID: 11400000, guid: 98881aa100f1f47769244a1b7210c5f8, type: 2}
+    - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7542774751702643575, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[0]'
+      value: 
+      objectReference: {fileID: 348958199}
+    - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+--- !u!4 &1413794235 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8395954968238945202, guid: 252b98b07946a4ced8ebeb22aafda998, type: 3}
+  m_PrefabInstance: {fileID: 1413794234}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1452642358 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2738650138166017242, guid: da5a763080b672248ab4288d612dd4f3, type: 3}
@@ -2601,6 +2807,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1022558798}
+  - {fileID: 1413794235}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1913054490
@@ -3251,6 +3458,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 398d9595992dd47e8a9ecfbe67cd67a7, type: 3}
+--- !u!1 &705779074198227369 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3612881139988720983, guid: 398d9595992dd47e8a9ecfbe67cd67a7, type: 3}
+  m_PrefabInstance: {fileID: 705779074198227368}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1061749423960383707 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1530562419934771591, guid: 398d9595992dd47e8a9ecfbe67cd67a7, type: 3}
@@ -3486,6 +3698,14 @@ PrefabInstance:
       propertyPath: '_data._objectReferences.Array.data[12]'
       value: 
       objectReference: {fileID: 7914787429194247356}
+    - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[13]'
+      value: 
+      objectReference: {fileID: 720579560}
+    - target: {fileID: 4029469220912520613, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[14]'
+      value: 
+      objectReference: {fileID: 705779074198227369}
     - target: {fileID: 6923154240667848060, guid: ba47347e1aa3249e9bc9967b20bbfbd5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -4390,8 +4610,17 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Step","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"NextStateJumpFinal","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"sleeptimes","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"NextStepDreamedDoor","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
+    - target: {fileID: 2226580041232911523, guid: ac4744d6a2abb450fb94fe7ebf03208b, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2226580041232911523, guid: ac4744d6a2abb450fb94fe7ebf03208b, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[1]'
+      value: 
+      objectReference: {fileID: 503024988}
     - target: {fileID: 4937912320240314883, guid: ac4744d6a2abb450fb94fe7ebf03208b, type: 3}
       propertyPath: m_Name
       value: GameStates
@@ -4399,6 +4628,9 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1515401332619095070, guid: ac4744d6a2abb450fb94fe7ebf03208b, type: 3}
+      insertIndex: 9
+      addedObject: {fileID: 503024989}
     - targetCorrespondingSourceObject: {fileID: 3458051461667056472, guid: ac4744d6a2abb450fb94fe7ebf03208b, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1351837454}

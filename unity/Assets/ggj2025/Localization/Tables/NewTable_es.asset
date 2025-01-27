@@ -317,11 +317,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 659256545107968
-    m_Localized: "\xA1Est\xE1 funcionando!"
+    m_Localized: "\xA1No pares! \xA1Est\xE1 funcionando! :D"
     m_Metadata:
       m_Items: []
   - m_Id: 735614646345728
-    m_Localized: "<i>Siempre sue\xF1o con manzanas...</i>"
+    m_Localized: "<i>Siempre sue\xF1o con manzanas...\n\xD1am \xD1am</i>"
     m_Metadata:
       m_Items: []
   - m_Id: 735879793467392
@@ -335,7 +335,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 737218976014336
-    m_Localized: "\xA1Una puerta ha aparecido al fondo! Pero est\xE1 cerrada..."
+    m_Localized: "\xA1Una puerta ha aparecido al fondo! "
     m_Metadata:
       m_Items: []
   - m_Id: 740868758691840
@@ -355,10 +355,49 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 741587406544896
-    m_Localized: '<i>Una puerta... tras la burbuja.</i>
-
-
-'
+    m_Localized: <i>Una puerta... tras la burbuja.</i>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 978462813708288
+    m_Localized: "\xA1Mira, al fondo de mi habitaci\xF3n!\n\xA1Ha aparecido una puerta!\n:0\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980335411060736
+    m_Localized: Puerta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980370773237760
+    m_Localized: "\xA1Oh, no! La puerta no se abre... \nD_:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980487337140224
+    m_Localized: "Parece que alguien cerr\xF3 la puerta por el otro lado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981521648312320
+    m_Localized: "\xBFSer\xE1 que todo lo que sue\xF1o se vuelve real?\n\xA1Ojal\xE1
+      ahora sue\xF1e que soy rico, jeje!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987433469468672
+    m_Localized: "<i>\xA1No queda bater\xEDa... no... no...! </i>\n>_<"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987452201230336
+    m_Localized: "<i>\xBFSe fue la bater\xEDa? \xBFPor qu\xE9 est\xE1 tan oscuro?
+      </i>\n\xA1Ah! \u2026 Uf, era solo la luz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987543603503104
+    m_Localized: "No puedo dormir\u2026 la oscuridad me da miedo.\n>_<\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987669055135744
+    m_Localized: "\xBFY si nunca despierto...?\nD:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 996797643218944
+    m_Localized: "La puerta est\xE1 bloqueada desde <b>atr\xE1s</b>."
     m_Metadata:
       m_Items: []
   references:

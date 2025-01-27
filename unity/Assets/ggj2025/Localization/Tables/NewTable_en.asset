@@ -318,11 +318,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 659256545107968
-    m_Localized: It is working!
+    m_Localized: Don't stop! It is working! :D
     m_Metadata:
       m_Items: []
   - m_Id: 735614646345728
-    m_Localized: <i>I always dream of apples...</i>
+    m_Localized: "<i>I always dream of apples...Mmm\u2026 Yummy\u2026</i>"
     m_Metadata:
       m_Items: []
   - m_Id: 740868758691840
@@ -341,8 +341,6 @@ MonoBehaviour:
   - m_Id: 741587406544896
     m_Localized: '<i>A door... behind the bubble.</i>
 
-
-
 '
     m_Metadata:
       m_Items: []
@@ -353,7 +351,57 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 737218976014336
-    m_Localized: A door has appeared at the back of the room! But it's closed...
+    m_Localized: 'A door has appeared at the back of the room! '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 978462813708288
+    m_Localized: 'Look there! At the end of the room!
+
+      A door! Was there before?
+
+      :0'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980335411060736
+    m_Localized: Door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980370773237760
+    m_Localized: "Oh no! The lDoor won\u2019t open\u2026 \nD_:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980487337140224
+    m_Localized: ' it looks like someone closed the door from the other side.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981521648312320
+    m_Localized: 'Could it be that everything I dream becomes real?
+
+      I hope
+      I dream of getting rich now, hehe!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987433469468672
+    m_Localized: "<i>The battery is gone\u2026 no\u2026 no\u2026! </i>\n>_<"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987452201230336
+    m_Localized: "<i>Is the battery gone? Why is it so dark? </I>\nAh\u2026 phew,
+      it was just the light."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987543603503104
+    m_Localized: "I can\u2019t sleep\u2026 I\u2019m scared of the dark.\n>_<\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987669055135744
+    m_Localized: 'What if I never wake up...?
+
+      D:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 996797643218944
+    m_Localized: The door is blocked from <b>behind</b>.
     m_Metadata:
       m_Items: []
   references:
