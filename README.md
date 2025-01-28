@@ -4,7 +4,10 @@ https://globalgamejam.org/jam-sites/2025/epitech-madrid
 
 **Play right now!**
 
-https://lumley.github.io/GlobalGameJam2025/
+[https://lumley.github.io/GlobalGameJam2025/](https://lumley.github.io/GlobalGamejam2025/)
+
+Post jam link
+[https://lumley.github.io/GlobalGamejam2025/PostGameJam](https://lumley.github.io/GlobalGamejam2025/PostGameJam)
 
 # Technologies
 [Unity](unity/ProjectSettings/ProjectVersion.txt)
