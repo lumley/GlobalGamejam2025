@@ -67,7 +67,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: 
+    path: CharacterPositionTarget/CharacterScaleAndSpriteTarget
   m_FloatCurves: []
   m_PPtrCurves:
   - serializedVersion: 2
@@ -75,7 +75,7 @@ AnimationClip:
     - time: 0
       value: {fileID: 21300000, guid: eccc8d09eed584f25b0825cb67b19b87, type: 3}
     attribute: m_Sprite
-    path: 
+    path: CharacterPositionTarget/CharacterScaleAndSpriteTarget
     classID: 114
     script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
     flags: 2
@@ -87,7 +87,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 0
+      path: 4281160231
       attribute: 3
       script: {fileID: 0}
       typeID: 4
@@ -96,7 +96,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 0
+      path: 4281160231
       attribute: 2015549526
       script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
       typeID: 114
@@ -180,7 +180,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.x
-    path: 
+    path: CharacterPositionTarget/CharacterScaleAndSpriteTarget
     classID: 224
     script: {fileID: 0}
     flags: 0
@@ -237,7 +237,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.y
-    path: 
+    path: CharacterPositionTarget/CharacterScaleAndSpriteTarget
     classID: 224
     script: {fileID: 0}
     flags: 0
@@ -294,7 +294,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalScale.z
-    path: 
+    path: CharacterPositionTarget/CharacterScaleAndSpriteTarget
     classID: 224
     script: {fileID: 0}
     flags: 0

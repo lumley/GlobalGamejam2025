@@ -3583,6 +3583,18 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 911103073300870708, guid: 85dc522b6acb341cd944948f41518974, type: 3}
+      propertyPath: m_SceneBindings.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 911103073300870708, guid: 85dc522b6acb341cd944948f41518974, type: 3}
+      propertyPath: m_SceneBindings.Array.data[3].key
+      value: 
+      objectReference: {fileID: -1778950665835823247, guid: 913cfa9630ff84eb388a4ca18bbd9c68, type: 2}
+    - target: {fileID: 911103073300870708, guid: 85dc522b6acb341cd944948f41518974, type: 3}
+      propertyPath: m_SceneBindings.Array.data[3].value
+      value: 
+      objectReference: {fileID: 2506426333695158326}
     - target: {fileID: 1046587210541031562, guid: 85dc522b6acb341cd944948f41518974, type: 3}
       propertyPath: m_Pivot.x
       value: 0.36421895
