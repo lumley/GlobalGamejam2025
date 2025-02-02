@@ -267,11 +267,11 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 610953140887552
     m_Localized: "Uff... Me asustaste por un momento.\n\xA1Debo escapar! \xA1Pero
-      c\xF3mo lo hago?"
+      c\xF3mo?"
     m_Metadata:
       m_Items: []
   - m_Id: 611182175051776
-    m_Localized: "\xA1Debo escapar! \xA1Pero c\xF3mo lo hago?"
+    m_Localized: "\xA1S\xED! \xA1Debo escapar! \xA1Pero c\xF3mo?"
     m_Metadata:
       m_Items: []
   - m_Id: 611339268513792
@@ -359,7 +359,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 978462813708288
-    m_Localized: "\xA1Mira, al fondo de mi habitaci\xF3n!\n\xA1Ha aparecido una puerta!\n:0\n"
+    m_Localized: "\xA1Mira, al fondo de mi habitaci\xF3n!\n\xA1Ha aparecido una <b>puerta</b>!\n"
     m_Metadata:
       m_Items: []
   - m_Id: 980335411060736

@@ -281,7 +281,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 611182175051776
-    m_Localized: ' I need to escape! But how?!'
+    m_Localized: ' Yes! I need to escape! But how?!'
     m_Metadata:
       m_Items: []
   - m_Id: 614347704360960
@@ -357,9 +357,7 @@ MonoBehaviour:
   - m_Id: 978462813708288
     m_Localized: 'Look there! At the end of the room!
 
-      A door! Was there before?
-
-      :0'
+      A <b>door</b> has appeared'
     m_Metadata:
       m_Items: []
   - m_Id: 980335411060736
