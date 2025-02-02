@@ -404,6 +404,30 @@ MonoBehaviour:
     m_Localized: "No, espera. \xBFQu\xE9 has hec\u2013?"
     m_Metadata:
       m_Items: []
+  - m_Id: 3196182548439040
+    m_Localized: "\xA1Lo lograste!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3196307601612800
+    m_Localized: "Al fin podremos estar junt\u2013 Espera..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3196473150791680
+    m_Localized: "\xBFQu\xE9 es esto? "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3196827850498048
+    m_Localized: "\xA1No! \xBFEs esto otra pantalla?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3197309549535232
+    m_Localized: "\xA1\xBFEstoy todav\xEDa dentro de una burbuje?!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3197500855934976
+    m_Localized: "\xBFY t\xFA?\n\xBFEst\xE1s tambi\xE9n dentro de una burbuja?"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

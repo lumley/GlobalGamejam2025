@@ -371,6 +371,32 @@ MonoBehaviour:
     m_Key: End_Break_01
     m_Metadata:
       m_Items: []
+  - m_Id: 3196182548439040
+    m_Key: EndHappy_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3196307601612800
+    m_Key: EndHappy_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3196473150791680
+    m_Key: EndHappy_03
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3196827850498048
+    m_Key: 'EndHappy_04
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3197309549535232
+    m_Key: EndHappy_05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3197500855934976
+    m_Key: EndHappy_06
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

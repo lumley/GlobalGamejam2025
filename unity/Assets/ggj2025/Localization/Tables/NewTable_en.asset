@@ -416,6 +416,32 @@ MonoBehaviour:
     m_Localized: "Wait! What have you don\u2013?"
     m_Metadata:
       m_Items: []
+  - m_Id: 3196182548439040
+    m_Localized: You did it!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3196307601612800
+    m_Localized: "Finally! We can be toguet\u2013 wait..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3196473150791680
+    m_Localized: What it is this?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3196827850498048
+    m_Localized: 'No! Is this another screen?! '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3197309549535232
+    m_Localized: I'm still ... inside a bubble?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3197500855934976
+    m_Localized: 'And you...?
+
+      Are you in a bubble?'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
