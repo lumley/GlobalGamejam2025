@@ -283,37 +283,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 614347704360960
-    m_Localized: '<size=3em>Equipo</size>
-
-
-
-      <color=blue><u><link="https://piffia.wixsite.com/website">Oriana
-      Laplana Curtido</link></u></color>
-
-
-      Luis Andres Rojas Jimenez
-
-
-      <color=blue><u><link="https://github.com/lumley">Sergio
-      Rodriguez Lumley</link></u></color>
-
-
-      <color=blue><u><link="https://www.instagram.com/ciro_rodriguez_ll/">Ciro
-      Rodriguez Llorens</link></u></color>
-
-
-      <color=blue><u><link="https://github.com/jilker">Victor
-      Quesada</link></u></color>
-
-
-      <color=blue><u><link="https://github.com/LyraDOc/">Lyra</link></u></color>
-
-
-      <color=blue><u><link="https://www.behance.net/leochr2007aff5">Leonardo
-      Changanaqui - keyL</link></u></color>
-
-
-'
+    m_Localized: "<size=1.5em><b>-DISE\xD1O-</b></size>\n<link=\"https://piffia.wixsite.com/website\">Oriana
+      L.C</link>\n\n<size=1.5em><b>-PROGRAMADOR</b></size>\nLuis Andres Rojas Jimenez\n<link=\"https://github.com/lumley\">Sergio
+      Rodriguez Lumley</link>\n<link=\"https://github.com/jilker\">Victor Quesada</link>\n\n<size=1.5em><b>-ARTE-</b></size>\n<link=\"https://github.com/LyraDOc/\">Lyra</link>\n<link=\"https://www.behance.net/leochr2007aff5\">Leonardo
+      Changanaqui - keyL</link>\n\n<size=1.5em><b>-SONIDO-</b></size>\n<link=\"https://www.instagram.com/ciro_rodriguez_ll/\">Ciro
+      Rodriguez Llorens</link>"
     m_Metadata:
       m_Items: []
   - m_Id: 659256545107968

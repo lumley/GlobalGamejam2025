@@ -285,36 +285,35 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 614347704360960
-    m_Localized: '<size=3em>Team</size>
+    m_Localized: '<size=1.5em><b>-GAME DESIGN-</b></size>
+
+      <link="https://piffia.wixsite.com/website">Oriana
+      L.C</link>
 
 
+      <size=1.5em><b>-PROGRAMMERS-</b></size>
 
-      <color=blue><u><link="https://piffia.wixsite.com/website">Oriana
-      Laplana Curtido</link></u></color>
+      Luis Andres
+      Rojas Jimenez
 
+      <link="https://github.com/lumley">Sergio Rodriguez Lumley</link>
 
-      Luis Andres Rojas Jimenez
-
-
-      <color=blue><u><link="https://github.com/lumley">Sergio
-      Rodriguez Lumley</link></u></color>
-
-
-      <color=blue><u><link="https://www.instagram.com/ciro_rodriguez_ll/">Ciro
-      Rodriguez Llorens</link></u></color>
+      <link="https://github.com/jilker">Victor
+      Quesada</link>
 
 
-      <color=blue><u><link="https://github.com/jilker">Victor
-      Quesada</link></u></color>
+      <size=1.5em><b>-ART-</b></size>
+
+      <link="https://github.com/LyraDOc/">Lyra</link>
+
+      <link="https://www.behance.net/leochr2007aff5">Leonardo
+      Changanaqui - keyL</link>
 
 
-      <color=blue><u><link="https://github.com/LyraDOc/">Lyra</link></u></color>
+      <size=1.5em><b>-SOUND-</b></size>
 
-
-      <color=blue><u><link="https://www.behance.net/leochr2007aff5">Leonardo
-      Changanaqui - keyL</link></u></color>
-
-'
+      <link="https://www.instagram.com/ciro_rodriguez_ll/">Ciro
+      Rodriguez Llorens</link>'
     m_Metadata:
       m_Items: []
   - m_Id: 659256545107968
