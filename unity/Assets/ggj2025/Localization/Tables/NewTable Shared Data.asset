@@ -367,6 +367,10 @@ MonoBehaviour:
     m_Key: Door_03
     m_Metadata:
       m_Items: []
+  - m_Id: 3139149757407232
+    m_Key: End_Break_01
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

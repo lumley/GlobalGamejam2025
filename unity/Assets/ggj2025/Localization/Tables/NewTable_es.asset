@@ -400,6 +400,10 @@ MonoBehaviour:
     m_Localized: "La puerta est\xE1 bloqueada desde <b>atr\xE1s</b>."
     m_Metadata:
       m_Items: []
+  - m_Id: 3139149757407232
+    m_Localized: "No, espera. \xBFQu\xE9 has hec\u2013?"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

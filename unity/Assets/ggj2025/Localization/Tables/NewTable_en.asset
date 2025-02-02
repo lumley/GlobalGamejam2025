@@ -412,6 +412,10 @@ MonoBehaviour:
 '
     m_Metadata:
       m_Items: []
+  - m_Id: 3139149757407232
+    m_Localized: "Wait! What have you don\u2013?"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
