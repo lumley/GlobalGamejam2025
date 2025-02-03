@@ -397,6 +397,10 @@ MonoBehaviour:
     m_Key: EndHappy_06
     m_Metadata:
       m_Items: []
+  - m_Id: 3626474501300224
+    m_Key: Pet
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

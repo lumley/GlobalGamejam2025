@@ -439,6 +439,10 @@ MonoBehaviour:
       Are you in a bubble?'
     m_Metadata:
       m_Items: []
+  - m_Id: 3626474501300224
+    m_Localized: Pet
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

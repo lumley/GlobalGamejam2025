@@ -402,6 +402,12 @@ MonoBehaviour:
     m_Localized: "\xBFY t\xFA?\n\xBFEst\xE1s tambi\xE9n dentro de una burbuja?"
     m_Metadata:
       m_Items: []
+  - m_Id: 3626474501300224
+    m_Localized: 'Acariciar
+
+'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
